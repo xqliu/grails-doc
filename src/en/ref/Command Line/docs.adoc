@@ -23,7 +23,7 @@ Now run the command
 
 [source,groovy]
 ----
-gradle docs
+grails docs
 ----
 
 
